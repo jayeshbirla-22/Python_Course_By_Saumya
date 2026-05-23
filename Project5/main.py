@@ -42,7 +42,8 @@ def start_slideshow():
         root.update()
         time.sleep(2)
 
-#Button 
+#Button
+#this is the best code 
 play_button= tk.Button(
     root,
     text= "Play the Slideshow",
